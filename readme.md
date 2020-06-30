@@ -1,6 +1,6 @@
 # Jack Lo Russo — designer & engineer
 
-Hi 👋
+Hello 👋
 
 I've turned my website into a kind of online notebook. I'm _really_ hoping I don't need a portfolio style site again for a while.
 
