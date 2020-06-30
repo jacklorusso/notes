@@ -8,14 +8,14 @@ Many of these notes are a little undercooked, and some of them are more for me t
 
 ## now
 
+☝️ Inspired by the grand tradition of the [now page](https://sivers.org/now)
+
 - Working as software engineer on the [Design Systems team](https://atlassian.design) at [Atlassian](https://www.atlassian.com/).
 - On a [[journey-to-learn-swift]] — partly because I like the idea of my [[side-projects]] feeling very different to my work.
 - Thinking about running a cross-disciplinary book club to encourage myself (and others) to engage with ideas adjacent to our areas of expertise. I don't have a page on this yet but there is a [Twitter thread](https://twitter.com/lol_russo/status/1272698810473410561?s=20). Aiming to have kicked off the group with our first book sometime in July, with the first meeting coming a month after that.
 - Trying to build more writing into my daily practice. I used to write a lot, but I've dropped off in the past year or two. I'm doing my best to do something creative every day, and recently I've coupled "building things" way too tightly with creativity. Let's loosen it up a little!
 
 ☝️ Inspired by the grand tradition of the [now page](https://sivers.org/now)
-
-## foam
 
 I tend to these notes with a tool called [Foam](https://foambubble.github.io/foam/). I'm keeping track of my [[thoughts on Foam]] here.
 
