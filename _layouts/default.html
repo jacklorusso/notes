@@ -12,16 +12,32 @@
 </head>
 
 <body>
+
     <div class="container-lg px-3 my-5 markdown-body">
-        <!-- {% if site.title and site.title != page.title %}
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-        {% endif %} -->
+        <header class="nav-container pb-6">
+            <a href="{{ "/" | absolute_url }}">
+                <svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 0 506 331">
+                    <title>Go to the home page</title>
+                    <g fill="none" fill-rule="evenodd">
+                    <circle cx="165.5" cy="165.5" r="165.5" fill="#EF3085" />
+                    <circle cx="340.5" cy="165.5" r="165.5" fill="#34B6DD" />
+                    <path fill="#42458A" d="M253,25.2187885 C299.847155,54.5054142 331,106.481298 331,165.718784 C331,224.95627 299.847155,276.932153 253,306.218779 C206.152852,276.932164 175,224.956276 175,165.718784 C175,106.481291 206.152852,54.5054029 253.000015,25.2187789 Z" />
+                </g>
+                </svg>
+            </a>
+            <div>
+                <a class="nav-link" href="https://twitter.com/lol_russo">Twitter</a>
+                <a class="nav-link" href="https://github.com/lol-russo">GitHub</a>
+                <a class="nav-link" href="https://www.linkedin.com/in/jacklorusso/">LinkedIn</a>
+            </div>
+        </header>
+   
 
         {{ content }}
 
         {% if site.github.private != true and site.github.license %}
         <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-            This site is open source. {% github_edit_link "Improve this page" %}.
+            This site is {% github_edit_link "open source" %}.
         </div>
         {% endif %}
     </div>
