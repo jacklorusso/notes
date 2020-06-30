@@ -2,7 +2,9 @@
 
 Hi 👋
 
-I've turned my website into a kind of online notebook. Many of these notes are a little undercooked, and some of them are more for me than they are for you, but you're more than welcome to poke around.
+I've turned my website into a kind of online notebook. I'm _really_ hoping I don't need a portfolio style site again for a while.
+
+Many of these notes are a little undercooked, and some of them are more for me than they are for you, but you're more than welcome to poke around.
 
 ## now
 
