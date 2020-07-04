@@ -2,7 +2,7 @@
 
 Hello 👋
 
-I've turned my website into a kind of online notebook (I'm _really_ hoping I don't need a portfolio style site again for a long time). It's a place for my writing that is [more than a tweet, less than a blog](more-than-a-tweet-less-than-a-blog.md).
+I've turned my website into a kind of online notebook (I'm _really_ hoping I don't need a portfolio style site again for a long time). It's a place for writing things that are [more than a tweet, less than a blog](more-than-a-tweet-less-than-a-blog.md).
 
 Many of these notes are a little undercooked, and some of them are more for me than they are for you, but you're more than welcome to poke around.
 
