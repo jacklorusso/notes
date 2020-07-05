@@ -7,3 +7,8 @@ Hacking With Swift is an excellent resource:
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
 - [Understanding Swift](https://www.hackingwithswift.com/quick-start/understanding-swift)
+
+People I recommend following:
+
+- Paul Hudson [@twostraws](https://twitter.com/twostraws)
+- Jordan Singer [@jsngr](https://twitter.com/jsngr)
